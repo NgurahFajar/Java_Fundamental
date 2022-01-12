@@ -1,1 +1,3 @@
-# Java_Dasar
+# Java_Fundamental
+
+Learn Java Basic
